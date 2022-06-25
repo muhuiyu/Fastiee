@@ -1,0 +1,26 @@
+/* 
+  vi.strings
+  Fastiee
+
+  Created by Mu Yu on 6/25/22.
+  
+*/
+
+// MARK: - Generic
+"AppName" = "Fastiee";
+"Login" = "Đăng nhập";
+"Logout" = "Đăng xuất";
+
+// MARK: - Main Tab Bar
+"MainTab.Home" = "Home";
+"MainTab.Me" = "Me";
+
+// MARK: - Loading Screen
+"Loading.Title" = "Loading...";
+
+// MARK: - Language
+"Language.Title" = "ngôn ngữ";
+"Language.en" = "tiếng Anh";
+"Language.ja" = "tiếng Nhật";
+"Language.vi" = "Tiếng Việt";
+"Language.changeLanguage" = "Thay đổi ngôn ngữ";

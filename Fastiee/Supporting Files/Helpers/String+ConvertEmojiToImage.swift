@@ -1,5 +1,5 @@
 //
-//  String+convertEmojiToImage.swift
+//  String+ConvertEmojiToImage.swift
 //  Intellect prototype
 //
 //  Created by Mu Yu on 21/2/21.

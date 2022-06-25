@@ -7,7 +7,11 @@
 
 import UIKit
 
-class HomeViewController: ViewController {
+class HomeViewController: BaseViewController {
+    
+    private let fastingTimerView = HomeFastingTimerView()
+    
+    var viewModel = HomeViewModel()
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -20,10 +24,12 @@ class HomeViewController: ViewController {
 // MARK: - View Config
 extension HomeViewController {
     private func configureViews() {
-        
+        view.addSubview(fastingTimerView)
     }
     private func configureConstraints() {
-        
+        fastingTimerView.snp.remakeConstraints { make in
+            make.edges.equalTo(view.layoutMarginsGuide)
+        }
     }
     private func configureGestures() {
         

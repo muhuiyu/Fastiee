@@ -1,5 +1,5 @@
 //
-//  String+convertFromHTMLToAttributedString.swift
+//  String+ConvertFromHTMLToAttributedString.swift
 //  Lango
 //
 //  Created by Mu Yu on 24/1/21.

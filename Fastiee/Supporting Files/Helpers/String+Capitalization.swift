@@ -1,5 +1,5 @@
 //
-//  String+capitalization.swift
+//  String+Capitalization.swift
 //  Learning Path Prototype
 //
 //  Created by Mu Yu on 2021/6/8.
